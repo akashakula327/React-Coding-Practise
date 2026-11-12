@@ -1,0 +1,22 @@
+.card {
+    background-color: lightblue;
+    padding: 10px;
+    text-align: center;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading {
+    font-size: 35px;
+    font-family: Roboto;
+}
+
+.button {
+    padding: 7px 15px;
+    margin: 5px;
+    background-color: blueviolet;
+    color: white;
+    border: 0px;
+    border-radius: 7px;
+}

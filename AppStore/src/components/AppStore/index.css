@@ -1,0 +1,25 @@
+.appstore-background {
+    padding: 20px;
+    margin: 20px;
+}
+.tabs-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.search-input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 70%;
+    padding: 5px;
+    background-color: transparent;
+    border: 1px solid black;
+    border-radius: 5px;
+    outline: none;
+}
+.apps-list {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}

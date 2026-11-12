@@ -1,0 +1,24 @@
+.background {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  padding:100px;
+  text-align: center;
+  border-radius: 7px;
+  color: white;
+  background: linear-gradient(to bottom,#2A2C47,#AAB1F1);
+}
+.heading {
+  font-size: 50px;
+  font-family: sans-serif;
+}
+.login-btn {
+  padding: 10px 25px;
+  border-radius: 7px;
+  border: 0px;
+}

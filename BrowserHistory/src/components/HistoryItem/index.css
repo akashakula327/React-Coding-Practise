@@ -1,0 +1,42 @@
+.history-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+}
+.history-item-logo {
+    width: 25px;
+    margin-right: 10px;
+}
+.time {
+  color: #475569;
+  font-size: 1.1rem;
+  font-weight: 600;
+  white-space: nowrap;
+  margin: 0;
+  margin-right: 2em;
+}
+.delete {
+    height: 25px;
+}
+
+.row {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.row-2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.title {
+    margin-right: 10px;
+    color: black;
+}
+.domain-url {
+    color: #475569;
+}

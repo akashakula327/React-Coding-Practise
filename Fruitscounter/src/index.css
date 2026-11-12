@@ -1,0 +1,17 @@
+.background {
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+}
+
+.image {
+  width: 300px;
+  margin: 20px;
+}
+
+.button {
+  background-color: rgb(40, 141, 207);
+  padding: 10px 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}

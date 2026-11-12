@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+}
+.background {
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #ffffff;
+    margin: 20px;
+    border-radius: 7px;
+    padding: 10px;
+}
+.main-heading {
+    color: #F27D4E;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

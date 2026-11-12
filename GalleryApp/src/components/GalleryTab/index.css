@@ -1,0 +1,25 @@
+.gallery-background {
+    min-height: 100vh;
+  width: 80%;
+  margin: auto;
+  padding-top: 2em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.gallery-image {
+    width: 100%;
+}
+.gallery-heading {
+    margin-right: auto;
+}
+.description {
+    margin-right: auto;
+}
+
+.thumbnail-tab {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

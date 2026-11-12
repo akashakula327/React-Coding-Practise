@@ -1,0 +1,41 @@
+* {
+  margin: 0px;
+}
+body {
+  width: 100vw;
+  background-color: black;
+}
+.background {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.image {
+  width: 500px;
+}
+
+.heading {
+  color: white;
+  text-align: center;
+}
+
+.description {
+  color: rgba(255, 255, 255, 0.527);
+  text-align: center;
+  margin: 10px;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.button {
+  padding: 10px 20px;
+  margin: 7px;
+  margin-top: 20px;
+  background-color: blueviolet;
+  color: white;
+  border: 0px;
+  border-radius: 5px;
+}

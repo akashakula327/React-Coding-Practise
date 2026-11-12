@@ -1,0 +1,7 @@
+.tab {
+    margin: 10px;
+}
+.active-tab {
+  color: #2563eb;
+  border-bottom: 3px solid #2563eb;
+}

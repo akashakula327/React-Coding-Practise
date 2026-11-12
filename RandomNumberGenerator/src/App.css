@@ -1,0 +1,13 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.background {
+  height: 100vh;
+  background-image: url("https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png");
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}

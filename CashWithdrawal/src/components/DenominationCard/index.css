@@ -1,0 +1,9 @@
+.cash-btn {
+    background-color: #372A57;
+    color: white;
+    border: 2px solid #C6BED6;
+    padding: 10px 20px;
+    width: 45%;
+    margin: 5px;
+    border-radius: 7px;
+}

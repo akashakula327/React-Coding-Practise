@@ -1,0 +1,13 @@
+.suggestion-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.suggestion {
+    color: #475569;
+}
+.arrow-icon{
+    height: 2em;
+    cursor: pointer;
+}

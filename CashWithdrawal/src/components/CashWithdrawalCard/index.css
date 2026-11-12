@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.card {
+    background-color: #12073A;
+    padding: 30px;
+    border-radius: 10px;
+    font-family: Roboto;
+    width: 400px;
+    max-width: 500px;
+    min-width: 300px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.profile {
+    background-color: #C6D0F8;
+    padding: 10px;
+    border-radius: 1000px;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-name {
+    color: #C6BED6;
+    margin-left: 15px;
+}
+
+.secondary {
+    color: #574B73;
+    font-size: 25px;
+}
+.row-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.balance {
+    color: #C6BED6;
+}
+.rupees {
+    color: #574B73;
+    text-align: right;
+}
+.withdraw-text {
+    color: #C6BED6;
+}
+
+.choose-sum {
+    color: #574B73;
+}
+
+.center {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
