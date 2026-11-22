@@ -1,0 +1,33 @@
+.footer-card {
+    background-color: #1F2937;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+}
+.footer-heading {
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-bottom: 7px;
+}
+span {
+    color: #F97316;
+}
+.footer-sub-heading {
+    font-size: 17px;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+}
+.footer-description {
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+.policy {
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.copyrights {
+    font-family: sans-serif;
+    font-size: 10px;
+}

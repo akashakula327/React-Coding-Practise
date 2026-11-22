@@ -1,0 +1,31 @@
+.hero-section {
+    background-color: #FFEDD5;
+    padding: 15px;
+    border-radius: 10px;
+    font-family: poppins;
+}
+.hero-heading {
+    font-family: sans-serif;
+    margin-bottom: 10px;
+}
+.description {
+    color: #6B7280;
+}
+.search-input {
+    width: 80%;
+    max-width: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    outline: none;
+    border: 0px;
+    border-radius: 7px;
+}
+.explore-btn {
+    padding: 12px 20px;
+    border: 0px;
+    border-radius: 7px;
+    background-color: #F97316;
+    color: white;
+    font-size: 15px;
+}
